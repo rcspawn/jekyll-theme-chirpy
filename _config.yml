@@ -17,18 +17,18 @@ description: >-                        # used by seo meta and the atom feed
   bootstrap Jekyll theme with responsive web design
   and focuses on text presentation.
 
-# Replace with the website url, e.g. 'https://rcspawn.github.io'
+# Replace with the website url, e.g. 'https://username.github.io'
 url: https://rcspawn.github.io
 
-author: rcspawn                 # change to your full name
+author: username                 # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: RCSPAWN             # change to your github username
+  username: your_username            # change to your github username
 
 twitter:
-  username: @rcspawn            # change to your twitter username
+  username: username           # change to your twitter username
 
 social:
   name: your_full_name                  # it will shows as the copyright owner in Footer
